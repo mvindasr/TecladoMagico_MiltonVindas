@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="bin\Debug\TecladoMagico_MiltonVindas.dll" />
     <Content Include="bin\Debug\TecladoMagico_MiltonVindas.pdb" />
+    <Content Include="resources\demo.png" />
     <Content Include="resources\graphics.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
